@@ -14,7 +14,7 @@
 ### Abstract   
 Guess the randomly generated number with minimal iteration steps.
 
-:arrow_up: [к оглавлению](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents)  
+:arrow_up: [to contents](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents)  
 
 
 ### Our case

@@ -1,14 +1,17 @@
 # Project 0. Guess the number
 
 ## Contents 
-[1. Abstract](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Описание-проекта)  
-[2. Our case](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Какой-кейс-решаем)  
-[3. Short information about data](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Work stages](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Result](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Result)    
-[6. Summary](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Summary) 
+* [1. Abstract](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Abstract) 
 
-### Project description   
+* [2. Our case](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Our-case)
+
+* [4. Work stages](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Work-stages)
+
+* [5. Result](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Result)
+
+* [6. Summary](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Summary) 
+
+### Abstract   
 Guess the randomly generated number with minimal iteration steps.
 
 :arrow_up: [к оглавлению](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents)  
@@ -26,13 +29,6 @@ The results rate by the value of average number of attempts at 1000 repetitions
 
 **What I practice**     
 Learning to write good code on python
-
-
-### Short information about data
-....
-  
-:arrow_up: [к оглавлению](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents) 
-
 
 ### Work stages 
 ....

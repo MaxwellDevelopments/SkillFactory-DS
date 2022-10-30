@@ -1,6 +1,6 @@
 """Function for hidden number auto search"""
 """Game: Guess the number (all by machines)"""
-import numpy as np
+"""Python 3.10.8"""
 
 def predict_number(number: int=1, start_value: int=1, end_value: int=101) -> int:
     """This function tries to predict the random number that is in range(start_value, end_value)

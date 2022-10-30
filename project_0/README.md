@@ -5,11 +5,11 @@
 
 * [2. Our case](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Our-case)
 
-* [4. Work stages](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Work-stages)
+* [3. Work stages](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Work-stages)
 
-* [5. Result](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Result)
+* [4. Result](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Result)
 
-* [6. Summary](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Summary) 
+* [5. Summary](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Summary) 
 
 ### Abstract   
 Guess the randomly generated number with minimal iteration steps.

@@ -28,24 +28,26 @@ We need to write a program that guesses the number in the minimum number of atte
 The results rate by the value of average number of attempts at 1000 repetitions
 
 **What I practice**     
-Learning to write good code on python
+* Learning to write good code on python
+* Learning to work with IDE.
+* Learning to work with GitHub.
 
 ### Work stages 
 ....
 
-:arrow_up: [к оглавлению](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents) 
+:arrow_up: [to contents](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents) 
 
 
 ### Result:  
 ....
 
-:arrow_up: [к оглавлению](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents) 
+:arrow_up: [to contents](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents) 
 
 
 ### Summary:  
 ....
 
-:arrow_up: [к оглавлению](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents) 
+:arrow_up: [to contents](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents) 
 
 
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+If you found information in this project somehow useful or interesting, than It would be very appreciated if you mark this repository and my github account with the ⭐️⭐️⭐️'s

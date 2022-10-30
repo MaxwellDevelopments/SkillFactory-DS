@@ -3,14 +3,14 @@
 """Python 3.10.8"""
 
 def predict_number(number: int=1, start_value: int=1, end_value: int=101) -> int:
-    """This function tries to predict the random number that is in range(start_value, end_value)
+    """This function tries to predict the random number that is in [start_value, end_value)
         The algorythm uses the simple idea of dividing searching area by half for each iteration
         The complexity of algorythm is O(log(n, 2))
         
     Args:
         number (int, optional): hidden number to be guessed. Defaults to 1.
         start_value (int, optional): the minimum value of the range that the number is in. Defaults to 1.
-        end_value (int, optional): the maximum value of the range that the number is in. Defaults to 100.
+        end_value (int, optional): the maximum value of the range that the number is in. Defaults to 101.
 
     Raises:
         ValueError: start_value should be less than end_value
@@ -19,8 +19,8 @@ def predict_number(number: int=1, start_value: int=1, end_value: int=101) -> int
     Returns:
         int: function counts number of guessing tries and returns that value
     """
-    count = 0
     
+    count = 0    
     if end_value <= start_value:
         raise ValueError("end_value must be less than start_value")
     if not start_value <= number < end_value:

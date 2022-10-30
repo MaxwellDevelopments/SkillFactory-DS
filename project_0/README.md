@@ -47,10 +47,7 @@ Function predict_number in game.py that solving problem of finding number
 
 
 ### Summary: 
-I used algorithm of halving the search area on each iteration based on information about relation beetwen numbers
-So, the algorithm has complexity: O(log(n, 2))
-This means that when n = end_value - start_value = 100, we have log(100) with base 2 which is 6.643856189774725.
-So, in the worst case, we have 7 steps of the algorithm, which solves the problem of finding a number in a range from 1 to 100 in less than 20 steps
+I used algorithm of halving the search area on each iteration based on information about relation beetwen numbers. So, the algorithm has complexity: O(log(n, 2)). This means that when n = end_value - start_value = 100, we have log(100) with base 2 which is 6.643856189774725. So, in the worst case, we have 7 steps of the algorithm, which solves the problem of finding a number in a range from 1 to 100 in less than 20 steps
 
         
 :arrow_up: [to contents](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Contents) 

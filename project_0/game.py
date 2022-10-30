@@ -4,7 +4,7 @@
 
 def predict_number(number: int=1, start_value: int=1, end_value: int=101) -> int:
     """This function tries to predict the random number that is in [start_value, end_value)
-        The algorythm uses the simple idea of dividing searching area by half for each iteration
+        The algorithm uses the simple idea of dividing searching area by half for each iteration
         The complexity of algorythm is O(log(n, 2))
         
     Args:

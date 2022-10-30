@@ -1,6 +1,6 @@
 # Project 0. Guess the number
 
-## Contents 
+## Contents
 * [1. Abstract](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Abstract) 
 
 * [2. Our case](https://github.com/MaxwellDevelopments/SkillFactory-DS/tree/main/project_0/README.md#Our-case)
@@ -21,7 +21,7 @@ Guess the randomly generated number with minimal iteration steps.
 We need to write a program that guesses the number in the minimum number of attempts.
 
 **Competition conditions:**
-- The computer "spit" randomly generated integer number in a range from 0 to 100, and we need to guess that. By "guess" I mean "write a program that guesses a number".
+- The computer "spit" randomly generated integer number in a range from 1 to 100, and we need to guess that number. By "guess" I mean "write a program that guesses a number".
 - The algorithm uses information about whether the random number is greater or less than what we need.
 
 **Quality metric**     
